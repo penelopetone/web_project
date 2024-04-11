@@ -1,0 +1,46 @@
+h1{
+	color: darkslategrey;
+	font-size: 75px;
+	text-align: center;
+
+}
+body{
+	background-color: beige;
+	font-family: sans-serif;
+	margin: 0;
+}
+ul{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	position: relative;
+	top: 0;
+	background-color: floralwhite;
+}
+li{
+	float: left;
+}
+li a{
+	color: black;
+	float: left;
+	text-align: center;
+	font-size: 25px;
+	padding: 20px;
+	text-decoration: none;
+}
+li a:hover{
+color: blue;
+background-color: white;
+text-decoration: none;
+}
+div.section{
+	display: block;
+	background-color: floralwhite;
+	padding: 10px;
+	border: 5px;
+	border-color: darkslategrey;
+	border-style: solid;
+}
+
+}
